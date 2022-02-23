@@ -1,6 +1,4 @@
-a=input("Enter the string:")
-b=0
-for c in a:
-    if(b%2==0):
-        print(c,end="")
-    b=b+1
+a=input("Enter a String:")
+n=len(a)
+b= slice(0, n+1, 2)
+print(a[b])

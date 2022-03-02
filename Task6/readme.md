@@ -1,18 +1,7 @@
-# Markdown Cheat Sheet
-
-Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
-
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
-
-## Basic Syntax
-
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
-
-### Heading
-
-# H1
-## H2
-### H3
+# **CRYPTOCURRENCY**
+![alt text](https://raw.githubusercontent.com/Tharaniesh3/Cognizance-/master/Task3/Task%203-tharaniesh.png)
+> # *`THEME :`*
+###    When you open an account at WazirX, you will be able to trade bitcoins in a fast and simple way. This crypto exchange is designed to make it quick for you to start trading without much hassle.
 
 ### Bold
 
@@ -22,9 +11,6 @@ These are the elements outlined in John Gruber’s original design document. All
 
 *italicized text*
 
-### Blockquote
-
-> blockquote
 
 ### Ordered List
 
@@ -49,10 +35,6 @@ These are the elements outlined in John Gruber’s original design document. All
 ### Link
 
 [Markdown Guide](https://www.markdownguide.org)
-
-### Image
-
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
 
 ## Extended Syntax
 

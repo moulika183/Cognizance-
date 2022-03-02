@@ -35,7 +35,7 @@
 ## Use This Promo code for 50% off for the premium :
 
 ```
-crthxx#9911
+CRTHXX#9911
 ```
 ---
 # **THANK YOU FOR READING** 🙏

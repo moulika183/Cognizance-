@@ -1,6 +1,6 @@
 # **CRYPTOCURRENCY**
 ![alt text](https://raw.githubusercontent.com/Tharaniesh3/Cognizance-/master/Task3/Task%203-tharaniesh.png)
-> # *`THEME :`*
+> # *THEME :*
 ###    When you open an account at WazirX, you will be able to trade bitcoins in a fast and simple way. This crypto exchange is designed to make it quick for you to start trading without much hassle.
 
 ### Bold

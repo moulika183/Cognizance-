@@ -23,7 +23,7 @@
 - Introducing a trading platform for teens.
 - Introducing bot to trade.
 ---
-##  **`PLANS FOR THE PRO'S :`**
+>##  **`PLANS FOR THE PRO'S :`**
 
 | PLANS | PRICING  |
 | ----------- | ----------- |

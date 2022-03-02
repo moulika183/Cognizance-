@@ -1,101 +1,43 @@
 # **CRYPTOCURRENCY**
 ![alt text](https://raw.githubusercontent.com/Tharaniesh3/Cognizance-/master/Task3/Task%203-tharaniesh.png)
-> # *`THEME :`*
-###    When you open an account at WazirX, you will be able to trade bitcoins in a fast and simple way. This crypto exchange is designed to make it quick for you to start trading without much hassle.
-
-### Bold
-
-**bold text**
-
-### Italic
-
-*italicized text*
-
-
-### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-- First item
-- Second item
-- Third item
-
-### Code
-
-`code`
-
-### Horizontal Rule
-
+> # **`THEME :`**
+###    When you open an account, you will be able to trade bitcoins in a fast and simple way. This crypto exchange is designed to make it quick for you to start trading without much hassle.
+---
+> # **`MOTIVATION :`**
+###   
+- Secured Platform.
+- Easy and Fast KYC.
+- Quick Transactions.
+- Supports many Devices.
+- Easy To Use.
+- Trading Fees is 0.20%.
 ---
 
-### Link
+ 
+> # **`FUTURE IMPROVEMENTS :`**
+- Heading into NFT's.
+- Intoducing dark mode.
+- Introducing widgets.
+- Introducing a trading platform for teens.
+- Introducing bot to trade.
+---
+### Other referrals
 
-[Markdown Guide](https://www.markdownguide.org)
+[Instagram](https://www.instagram.com/_tharaniesh_/)
 
-## Extended Syntax
+#  **`PLANS FOR THE PRO'S :`****
 
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
-
-### Table
-
-| Syntax | Description |
+| *PLANS* | *PRICING*  |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| *1. BASIC* | $0.00 Free |
+| *2. PREMIUM* | $5.65 Per month. |
+| *3. Exclusive* | $10.65 Per month. |
 
-### Fenced Code Block
+## **Use This Promo code for 50% off for the premium**
 
 ```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+crthxx#9911
 ```
 
-### Footnote
 
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
-
-### Heading ID
-
-### My Great Heading {#custom-id}
-
-### Definition List
-
-term
-: definition
-
-### Strikethrough
-
-~~The world is flat.~~
-
-### Task List
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-### Emoji
-
-That is so funny! :joy:
-
-(See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
-
-### Highlight
-
-I need to highlight these ==very important words==.
-
-### Subscript
-
-H~2~O
-
-### Superscript
-
-X^2^
+# **THANK YOU FOR READING** 🙏

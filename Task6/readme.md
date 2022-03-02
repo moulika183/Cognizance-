@@ -39,7 +39,7 @@ crthxx#9911
 ```
 ---
 # **THANK YOU FOR READING** 🙏
-### OTHER LINKS
+### **OTHER LINKS :**
 [Instagram](https://www.instagram.com/_tharaniesh_/)
 ###
 [Facebook](https://lipsum.com/)
@@ -47,6 +47,6 @@ crthxx#9911
 [Github](https://github.com/Tharaniesh3/Cognizance-.git)
 ###
 [Discord](https://lipsum.com/)
-## [Email ID](www.tharanieshmarvel@gmail.com)
----
+###
+[Email ID](www.tharanieshmarvel@gmail.com)
 

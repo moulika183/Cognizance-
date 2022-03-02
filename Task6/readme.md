@@ -1,10 +1,10 @@
 # **CRYPTOCURRENCY**
 ![alt text](https://raw.githubusercontent.com/Tharaniesh3/Cognizance-/master/Task3/Task%203-tharaniesh.png)
-> # **`THEME :`**
+> ## **`THEME :`**
 ###    When you open an account, you will be able to trade bitcoins in a fast and simple way. This crypto exchange is designed to make it quick for you to start trading without much hassle.
 ---
-> # **`MOTIVATION :`**
-###   
+> ## **`MOTIVATION :`**
+###
 - Secured Platform.
 - Easy and Fast KYC.
 - Quick Transactions.
@@ -14,7 +14,7 @@
 ---
 
  
-> # **`FUTURE IMPROVEMENTS :`**
+> ## **`FUTURE IMPROVEMENTS :`**
 - Heading into NFT's.
 - Intoducing dark mode.
 - Introducing widgets.
@@ -25,7 +25,7 @@
 
 
 
-#  **`PLANS FOR THE PRO'S :`****
+##  **`PLANS FOR THE PRO'S :`**
 
 | PLANS | PRICING  |
 | ----------- | ----------- |
@@ -41,7 +41,7 @@ crthxx#9911
 
 
 # **THANK YOU FOR READING** 🙏
-## OTHER LINKS
+### OTHER LINKS
 [Instagram](https://www.instagram.com/_tharaniesh_/)
 [Facebook](https://lipsum.com/)
 [Github](https://github.com/Tharaniesh3/Cognizance-.git)

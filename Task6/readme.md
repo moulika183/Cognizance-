@@ -21,10 +21,6 @@
 - Introducing a trading platform for teens.
 - Introducing bot to trade.
 ---
-### Other referrals
-
-
-
 ##  `PLANS FOR THE PRO'S :`
 
 | PLANS | PRICING  |
@@ -32,14 +28,14 @@
 | 1. BASIC | $0.00 Free |
 | 2. PREMIUM | $5.65 Per month. |
 | 3. Exclusive | $10.65 Per month. |
+---
 
-## Use This Promo code for 50% off for the premium
+## Use This Promo code for 50% off for the premium :
 
 ```
 crthxx#9911
 ```
-
-
+---
 # **THANK YOU FOR READING** 🙏
 ### OTHER LINKS
 [Instagram](https://www.instagram.com/_tharaniesh_/)
@@ -51,4 +47,5 @@ crthxx#9911
 [Discord](https://lipsum.com/)
 ###
 [Email ID](www.tharanieshmarvel@gmail.com)
+---
 

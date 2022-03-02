@@ -47,7 +47,6 @@ crthxx#9911
 [Github](https://github.com/Tharaniesh3/Cognizance-.git)
 ###
 [Discord](https://lipsum.com/)
-###
-[Email ID](www.tharanieshmarvel@gmail.com)
+### [Email ID](www.tharanieshmarvel@gmail.com)
 ---
 

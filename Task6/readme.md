@@ -15,7 +15,7 @@
 - Trading Fees is 0.20%.
 ---
 
- 
+ <span style="color: red;">text</span>
 > ## **`FUTURE IMPROVEMENTS :`**
 - Heading into NFT's.
 - Intoducing dark mode.

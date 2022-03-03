@@ -1,11 +1,16 @@
 ---
 # **CRYPTOCURRENCY**
 ![alt text](https://raw.githubusercontent.com/Tharaniesh3/Cognizance-/master/Task3/Task%203-tharaniesh.png)
+
+# **<span style="color:white">CRYPTOCURRENCY</span>**
+
+![alt text](https://raw.githubusercontent.com/Tharaniesh3/Cognizance-/master/Task3/Task%203-tharaniesh.png)
 ---
-> ## **`THEME :`**
+# **<span style="color:violet">THEME :</span>**
+
 ###    When you open an account, you will be able to trade bitcoins in a fast and simple way. This crypto exchange is designed to make it quick for you to start trading without much hassle.
 ---
-> ## **`MOTIVATION :`**
+# **<span style="color:violet">MOTIVATION :</span>**
 ###
 - Secured Platform.
 - Easy and Fast KYC.
@@ -14,24 +19,22 @@
 - Easy To Use.
 - Trading Fees is 0.20%.
 ---
-> ## **`FUTURE IMPROVEMENTS :`**
+# **<span style="color:violet">FUTURE IMPROVEMENTS :</span>**
 - Heading into NFT's.
 - Intoducing dark mode.
 - Introducing widgets.
 - Introducing a trading platform for teens.
 - Introducing bot to trade.
 ---
->##  **`PLANS FOR THE PRO'S :`**
+## **<span style="color:orange">PLANS FOR THE PRO'S :</span>**
 
 | PLANS | PRICING  |
 | ----------- | ----------- |
 | 1. BASIC | $0.00 Free |
 | 2. PREMIUM | $5.65 Per month. |
 | 3. Exclusive | $10.65 Per month. |
----
-
-## Use This Promo code for 50% off for the premium :
-
+--- 
+### **<span style="color:red">Use This Promo code for 50% off for the premium :</span>**
 ```
 CRTHXX#9911
 ```
@@ -47,4 +50,3 @@ CRTHXX#9911
 [Discord](https://lipsum.com/)
 ###
 [Email ID](www.tharanieshmarvel@gmail.com)
-

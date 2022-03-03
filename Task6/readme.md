@@ -1,6 +1,3 @@
----
-# **CRYPTOCURRENCY**
-![alt text](https://raw.githubusercontent.com/Tharaniesh3/Cognizance-/master/Task3/Task%203-tharaniesh.png)
 
 # **<span style="color:white">CRYPTOCURRENCY</span>**
 
